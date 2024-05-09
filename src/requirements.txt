@@ -1,0 +1,6 @@
+langchain==0.1.16
+langchain-community==0.0.34
+langgraph==0.0.40
+ollama==0.1.9
+fastapi==0.110.3
+uvicorn==0.29.0
